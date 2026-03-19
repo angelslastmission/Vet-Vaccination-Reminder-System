@@ -41,7 +41,7 @@ fun VaccineScheduleScreen() {
         Spacer(modifier = Modifier.height(20.dp))
 
         Button(onClick = {}) {
-            Text("Mark as Done")
+            Tgitext("Mark as Done")
         }
     }
 }
